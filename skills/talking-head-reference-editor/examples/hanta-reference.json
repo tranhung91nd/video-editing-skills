@@ -1,0 +1,253 @@
+{
+ "video": "raw.mp4",
+ "cuts": [
+  {
+   "start": 11.2,
+   "end": 35.08
+  },
+  {
+   "start": 35.52,
+   "end": 59.05
+  }
+ ],
+ "zoom": 1.08,
+ "sfx": true,
+ "music": "assets/music.mp3",
+ "musicVolume": 0.2,
+ "captions": [
+  {
+   "type": "hero",
+   "t": 11.3,
+   "end": 15.7,
+   "top": "CEO ngành du lịch",
+   "main": "Đã có AI",
+   "bottom": "cho riêng mình chưa?",
+   "size": "lg"
+  },
+  {
+   "type": "sub",
+   "t": 15.75,
+   "end": 18.4,
+   "line1": "Thử tưởng tượng",
+   "line2": "mỗi sáng thức dậy"
+  },
+  {
+   "type": "sub",
+   "t": 25.9,
+   "end": 29.4,
+   "line1": "Không phải chuyện",
+   "line2": "viễn tưởng xa vời"
+  },
+  {
+   "type": "brand",
+   "t": 29.4,
+   "end": 31.9,
+   "top": "ngay tại",
+   "lines": [
+    "HANTA AI",
+    "Basecamp 2026"
+   ],
+   "bar": "1 ngày đào tạo chuyên sâu"
+  },
+  {
+   "type": "hero",
+   "t": 31.95,
+   "end": 35.05,
+   "top": "đào tạo",
+   "main": "Thực chiến",
+   "bottom": "cho lãnh đạo doanh nghiệp du lịch"
+  },
+  {
+   "type": "hero",
+   "t": 41.75,
+   "end": 45.9,
+   "main": "Không",
+   "bottom": [
+    "cần biết lập trình",
+    "chỉ ngồi nghe lý thuyết"
+   ]
+  },
+  {
+   "type": "sub",
+   "t": 46.0,
+   "end": 48.75,
+   "line1": "Một ngày học thực sự",
+   "line2": "một nhân sự AI thật"
+  },
+  {
+   "type": "hero",
+   "t": 48.8,
+   "end": 51.6,
+   "top": "một sản phẩm thật",
+   "main": "Dùng ngay",
+   "bottom": "cho chính doanh nghiệp"
+  },
+  {
+   "type": "hero",
+   "t": 51.65,
+   "end": 54.4,
+   "top": "đừng đứng ngoài",
+   "main": "Cuộc đua AI",
+   "size": "lg"
+  },
+  {
+   "type": "cta",
+   "t": 54.45,
+   "end": 59.05,
+   "top": "HANTA AI Basecamp 2026",
+   "main": "Đăng ký ngay"
+  }
+ ],
+ "inserts": [
+  {
+   "type": "pip",
+   "t": 11.3,
+   "end": 13.4,
+   "src": "assets/hhdl-hoinghi.mp4",
+   "start": 1.5,
+   "pos": "top",
+   "focus": "50% 62%"
+  },
+  {
+   "type": "pip",
+   "t": 13.4,
+   "end": 15.75,
+   "src": "assets/ceo-success-recap.mp4",
+   "start": 40.2,
+   "pos": "top"
+  },
+  {
+   "type": "card",
+   "t": 18.4,
+   "end": 25.9,
+   "ghost": "Morning",
+   "tag": "AI làm thay",
+   "title": [
+    "Mỗi sáng",
+    "AI đã làm xong"
+   ],
+   "items": [
+    {
+     "label": "Thị trường",
+     "note": "nghiên cứu sẵn",
+     "at": 19.6
+    },
+    {
+     "label": "Tour mới",
+     "note": "đề xuất chương trình",
+     "at": 20.8
+    },
+    {
+     "label": "Content",
+     "note": "viết sẵn nội dung",
+     "at": 22.2
+    },
+    {
+     "label": "Báo cáo",
+     "note": "gửi cho anh chị",
+     "at": 24.7
+    }
+   ]
+  },
+  {
+   "type": "pip",
+   "t": 25.9,
+   "end": 27.6,
+   "src": "assets/ceo-success-recap.mp4",
+   "start": 63.6,
+   "pos": "top"
+  },
+  {
+   "type": "pip",
+   "t": 27.6,
+   "end": 29.4,
+   "src": "assets/ceo-success-recap.mp4",
+   "start": 83.5,
+   "pos": "top"
+  },
+  {
+   "type": "pip",
+   "t": 31.95,
+   "end": 33.6,
+   "src": "assets/ceo-success-recap.mp4",
+   "start": 61.3,
+   "pos": "top"
+  },
+  {
+   "type": "pip",
+   "t": 33.6,
+   "end": 35.05,
+   "src": "assets/ceo-success-recap.mp4",
+   "start": 7.3,
+   "pos": "top"
+  },
+  {
+   "type": "card",
+   "t": 35.52,
+   "end": 41.75,
+   "ghost": "Build",
+   "tag": "Tự tay xây",
+   "title": [
+    "Anh chị sẽ",
+    "trực tiếp xây dựng"
+   ],
+   "items": [
+    {
+     "label": "Second Brain",
+     "note": "bộ não thứ hai",
+     "at": 37.5
+    },
+    {
+     "label": "AI Agent",
+     "note": "trợ lý tự làm việc",
+     "at": 38.9
+    },
+    {
+     "label": "Workflow tự động",
+     "note": "cho chính doanh nghiệp",
+     "at": 39.9
+    }
+   ]
+  },
+  {
+   "type": "pip",
+   "t": 41.75,
+   "end": 44.2,
+   "src": "assets/ceo-success-recap.mp4",
+   "start": 70.1,
+   "pos": "top"
+  },
+  {
+   "type": "pip",
+   "t": 44.2,
+   "end": 45.9,
+   "src": "assets/ceo-success-recap.mp4",
+   "start": 113.85,
+   "pos": "top"
+  },
+  {
+   "type": "pip",
+   "t": 46.0,
+   "end": 48.75,
+   "src": "assets/ceo-success-recap.mp4",
+   "start": 76.7,
+   "pos": "top"
+  },
+  {
+   "type": "pip",
+   "t": 48.75,
+   "end": 51.6,
+   "src": "assets/ceo-success-recap.mp4",
+   "start": 46.4,
+   "pos": "top"
+  },
+  {
+   "type": "pip",
+   "t": 51.65,
+   "end": 54.4,
+   "src": "assets/ceo-success-recap.mp4",
+   "start": 92.0,
+   "pos": "top"
+  }
+ ]
+}

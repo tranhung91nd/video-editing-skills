@@ -1,0 +1,556 @@
+{
+  "duration": 77,
+  "fps": 30,
+  "region": "TỨ XUYÊN • TRUNG QUỐC",
+  "edition": "TRUNG QUỐC / 6N5Đ",
+  "fontFamily": "Avenir Next, Tour Sans, sans-serif",
+  "brand": {
+    "name": "VNEXPRESS TOUR",
+    "logo": "revision5/logo-vnexpress-tour-transparent.png",
+    "whiteWordmarkFrom": 40
+  },
+  "voice": {
+    "name": "Thục Đoan",
+    "file": "revision6/narration-thuc-doan-native.wav",
+    "speed": 1
+  },
+  "music": {
+    "file": "revision6/music-bed.wav",
+    "volume": 0.32,
+    "fadeOut": 4
+  },
+  "days": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "intro": {
+    "kicker": "HÀNH TRÌNH KHÁM PHÁ TỨ XUYÊN",
+    "title": "6 ngày",
+    "accent": "5 đêm",
+    "routeLabel": "THÀNH ĐÔ · CỬU TRẠI CÂU · LẠC SƠN",
+    "photos": [
+      "photo-13.jpg",
+      "photo-07.jpg"
+    ]
+  },
+  "routePoints": [
+    {
+      "x": 120,
+      "y": 405,
+      "name": "HÀ NỘI"
+    },
+    {
+      "x": 460,
+      "y": 250,
+      "name": "THÀNH ĐÔ"
+    },
+    {
+      "x": 830,
+      "y": 110,
+      "name": "CỬU TRẠI CÂU"
+    },
+    {
+      "x": 1140,
+      "y": 380,
+      "name": "LẠC SƠN"
+    }
+  ],
+  "rail": {
+    "from": "THÀNH ĐÔ",
+    "to": "CỬU TRẠI CÂU",
+    "label": "TÀU CAO TỐC • HƯỚNG CỬU TRẠI CÂU"
+  },
+  "cta": {
+    "kicker": "HÀNH TRÌNH 6 NGÀY 5 ĐÊM",
+    "title": "Đến lượt bạn",
+    "accent": "khám phá Cửu Trại Câu.",
+    "chips": [
+      "Lịch khởi hành",
+      "Báo giá",
+      "Dịch vụ đi kèm"
+    ],
+    "prompt": "Gửi số người + tháng dự kiến đi để được tư vấn hành trình phù hợp.",
+    "button": "NHẮN TIN VNEXPRESS TOUR",
+    "image": "photo-00.jpg"
+  },
+  "shots": [
+    {
+      "src": "opening.mp4",
+      "title": "CỬU TRẠI CÂU",
+      "sub": "Bạn muốn đến đây?",
+      "s": 0.0,
+      "e": 1.89981,
+      "day": 0
+    },
+    {
+      "src": "photo-00.jpg",
+      "title": "BẮT ĐẦU TỪ ĐÂU?",
+      "sub": "Một hành trình • nhiều trải nghiệm",
+      "s": 1.89981,
+      "e": 4.69846,
+      "day": 0
+    },
+    {
+      "src": "photo-00.jpg",
+      "title": "6 NGÀY 5 ĐÊM",
+      "type": "intro",
+      "s": 4.69846,
+      "e": 11.15027,
+      "day": 0
+    },
+    {
+      "src": "photo-10.jpg",
+      "title": "HÀ NỘI → THÀNH ĐÔ",
+      "sub": "Bắt đầu hành trình Tứ Xuyên",
+      "s": 11.15027,
+      "e": 14.22718,
+      "day": 1
+    },
+    {
+      "src": "revision2/luodai-street.mp4",
+      "title": "CỔ TRẤN LẠC ĐỚI",
+      "sub": "Dạo bước giữa kiến trúc xưa",
+      "s": 14.22718,
+      "e": 17.20893,
+      "day": 1
+    },
+    {
+      "src": "revision2/luodai-tulou.mp4",
+      "title": "BÁC KHÁCH LÂU",
+      "sub": "Một góc kiến trúc Khách Gia",
+      "type": "detail",
+      "s": 17.20893,
+      "e": 20.62844,
+      "day": 1
+    },
+    {
+      "src": "panda.mp4",
+      "title": "CÔNG VIÊN GẤU TRÚC",
+      "sub": "Gặp những “cư dân” đáng yêu của Thành Đô",
+      "s": 20.62844,
+      "e": 23.08718,
+      "day": 2
+    },
+    {
+      "src": "revision2/panda-eating.mp4",
+      "title": "MỘT CHÚT THẢNH THƠI",
+      "sub": "Ngắm gấu trúc thong thả ăn tre",
+      "s": 23.08718,
+      "e": 24.96142,
+      "day": 2
+    },
+    {
+      "src": "photo-10.jpg",
+      "title": "THÀNH ĐÔ → CỬU TRẠI CÂU",
+      "sub": "Trải nghiệm tàu cao tốc",
+      "type": "route",
+      "s": 24.96142,
+      "e": 28.15614,
+      "day": 2
+    },
+    {
+      "src": "revision2/banquet.mp4",
+      "title": "TIỆC ĐÓN KHÁCH TẠNG GIA",
+      "sub": "Buổi tối • giao lưu văn hóa",
+      "s": 28.15614,
+      "e": 30.90543,
+      "day": 2
+    },
+    {
+      "src": "photo-00.jpg",
+      "title": "TRỌN NGÀY CỬU TRẠI CÂU",
+      "sub": "Khoảng thời gian được mong chờ nhất",
+      "s": 30.90543,
+      "e": 35.38902,
+      "day": 3
+    },
+    {
+      "src": "water.mp4",
+      "title": "HỒ NƯỚC XANH TRONG",
+      "sub": "Nhìn ngắm sắc xanh của núi rừng",
+      "s": 35.38902,
+      "e": 36.9736,
+      "day": 3
+    },
+    {
+      "src": "waterfall.mp4",
+      "title": "THÁC NƯỚC NHIỀU TẦNG",
+      "sub": "Dòng nước trắng xóa giữa rừng thu",
+      "s": 36.9736,
+      "e": 38.12369,
+      "day": 3
+    },
+    {
+      "src": "forest.mp4",
+      "title": "RỪNG CÂY SOI BÓNG",
+      "s": 38.12369,
+      "e": 39.2738,
+      "day": 3
+    },
+    {
+      "src": "photo-00.jpg",
+      "title": "DỪNG LẠI, NGẮM THÊM",
+      "sub": "Lưu một khung hình • giữ một kỷ niệm",
+      "s": 39.2738,
+      "e": 41.70522,
+      "day": 3
+    },
+    {
+      "src": "revision2/village.mp4",
+      "title": "LÀNG VĂN HÓA TÂY TẠNG",
+      "sub": "Khám phá kiến trúc và đời sống địa phương",
+      "s": 41.70522,
+      "e": 47.53745,
+      "day": 4
+    },
+    {
+      "src": "photo-10.jpg",
+      "title": "TRỞ LẠI THÀNH ĐÔ",
+      "sub": "Tiếp nối những trải nghiệm mới",
+      "s": 47.53745,
+      "e": 48.91131,
+      "day": 4
+    },
+    {
+      "src": "revision2/jinli.mp4",
+      "title": "PHỐ CỔ CẨM LÝ",
+      "sub": "Nhịp sống bên những con phố xưa",
+      "s": 48.91131,
+      "e": 51.20076,
+      "day": 5
+    },
+    {
+      "src": "revision3/kuanzhai.mp4",
+      "title": "NGÕ RỘNG NGÕ HẸP",
+      "sub": "Dạo phố • lưu những góc hình đẹp",
+      "s": 51.20076,
+      "e": 52.7,
+      "day": 5
+    },
+    {
+      "src": "revision3/dongjiao-photos.mp4",
+      "title": "KÝ ỨC ĐÔNG GIAO",
+      "sub": "Chụp ảnh tại không gian nghệ thuật",
+      "s": 52.7,
+      "e": 55.82879,
+      "day": 5
+    },
+    {
+      "src": "photo-07.jpg",
+      "title": "LẠC SƠN ĐẠI PHẬT",
+      "sub": "Chiêm bái công trình giữa núi và sông",
+      "s": 55.82879,
+      "e": 58.5273,
+      "day": 6
+    },
+    {
+      "src": "photo-10.jpg",
+      "title": "DẠO PHỐ THÀNH ĐÔ",
+      "sub": "Ghé đường Xuân Hy trước khi trở về",
+      "s": 58.5273,
+      "e": 59.19181,
+      "day": 6
+    },
+    {
+      "src": "revision2/ifs.mp4",
+      "title": "GẤU TRÚC LEO TƯỜNG",
+      "sub": "Chụp ảnh lưu niệm • trở về Hà Nội",
+      "position": "lower",
+      "s": 59.19181,
+      "e": 62.26965,
+      "day": 6
+    },
+    {
+      "src": "revision3/group-jiuzhai.jpg",
+      "title": "GIA ĐÌNH HAY NHÓM BẠN?",
+      "sub": "Bạn muốn đi cùng ai?",
+      "s": 62.26965,
+      "e": 65.03741,
+      "day": 0
+    },
+    {
+      "src": "photo-00.jpg",
+      "title": "ĐẾN LƯỢT BẠN KHÁM PHÁ",
+      "type": "cta",
+      "s": 65.03741,
+      "e": 77.0,
+      "day": 0
+    }
+  ],
+  "captions": [
+    {
+      "text": "Bạn muốn đến Cửu Trại Câu,",
+      "start": 0.0,
+      "end": 1.48,
+      "startMs": 0,
+      "endMs": 1480,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "nhưng chưa biết kết hợp những điểm nào cho trọn chuyến?",
+      "start": 1.52,
+      "end": 4.5,
+      "startMs": 1520,
+      "endMs": 4500,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Cùng VnExpress Tour tìm hiểu hành trình sáu ngày",
+      "start": 4.698,
+      "end": 7.32,
+      "startMs": 4698,
+      "endMs": 7320,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "năm đêm, từ Thành Đô đến Cửu Trại Câu và Lạc Sơn nhé!",
+      "start": 7.32,
+      "end": 10.94,
+      "startMs": 7320,
+      "endMs": 10940,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Ngày đầu tiên, bay từ Hà Nội đến Thành Đô,",
+      "start": 11.15,
+      "end": 13.52,
+      "startMs": 11150,
+      "endMs": 13520,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ghé cổ trấn Lạc Đới. Những con phố cổ và kiến trúc",
+      "start": 13.52,
+      "end": 17.22,
+      "startMs": 13520,
+      "endMs": 17220,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Bác Khách Lâu là điểm mở đầu cho chuyến khám phá Tứ Xuyên.",
+      "start": 17.22,
+      "end": 20.42,
+      "startMs": 17220,
+      "endMs": 20420,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Ngày thứ hai, đến công viên gấu trúc,",
+      "start": 20.628,
+      "end": 22.82,
+      "startMs": 20628,
+      "endMs": 22820,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ngắm những chú gấu thong thả ăn tre.",
+      "start": 23.1,
+      "end": 24.86,
+      "startMs": 23100,
+      "endMs": 24860,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Sau đó, đi tàu cao tốc hướng Cửu Trại Câu,",
+      "start": 25.16,
+      "end": 27.8,
+      "startMs": 25160,
+      "endMs": 27800,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "rồi thưởng thức tiệc đón khách Tạng gia vào buổi tối.",
+      "start": 27.86,
+      "end": 30.66,
+      "startMs": 27860,
+      "endMs": 30660,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Ngày thứ ba là phần được mong chờ nhất:",
+      "start": 30.905,
+      "end": 32.9,
+      "startMs": 30905,
+      "endMs": 32900,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "dành trọn ngày khám phá Cửu Trại Câu.",
+      "start": 33.26,
+      "end": 35.14,
+      "startMs": 33260,
+      "endMs": 35140,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Những hồ nước xanh trong,",
+      "start": 35.52,
+      "end": 36.7,
+      "startMs": 35520,
+      "endMs": 36700,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "thác nước nhiều tầng và rừng cây soi bóng khiến",
+      "start": 36.7,
+      "end": 39.88,
+      "startMs": 36700,
+      "endMs": 39880,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "bạn cứ muốn dừng lại ngắm thêm.",
+      "start": 39.88,
+      "end": 41.48,
+      "startMs": 39880,
+      "endMs": 41480,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Ngày thứ tư, ghé làng văn hóa Tây Tạng,",
+      "start": 41.705,
+      "end": 44.34,
+      "startMs": 41705,
+      "endMs": 44340,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "tìm hiểu kiến trúc, trang phục và đời sống địa phương",
+      "start": 44.6,
+      "end": 47.24,
+      "startMs": 44600,
+      "endMs": 47240,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "trước khi trở lại Thành Đô.",
+      "start": 47.24,
+      "end": 48.66,
+      "startMs": 47240,
+      "endMs": 48660,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Ngày thứ năm, dạo phố cổ Cẩm Lý,",
+      "start": 48.911,
+      "end": 51.16,
+      "startMs": 48911,
+      "endMs": 51160,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "khám phá Ngõ Rộng Ngõ Hẹp và chụp ảnh tại không",
+      "start": 51.26,
+      "end": 53.88,
+      "startMs": 51260,
+      "endMs": 53880,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "gian nghệ thuật Ký Ức Đông Giao.",
+      "start": 53.88,
+      "end": 55.62,
+      "startMs": 53880,
+      "endMs": 55620,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Ngày cuối, chiêm bái Lạc Sơn Đại Phật,",
+      "start": 55.829,
+      "end": 58.04,
+      "startMs": 55829,
+      "endMs": 58040,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "ghé đường Xuân Hy, chụp ảnh cùng gấu trúc leo tường",
+      "start": 58.1,
+      "end": 60.9,
+      "startMs": 58100,
+      "endMs": 60900,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "rồi bay về Hà Nội.",
+      "start": 60.9,
+      "end": 62.04,
+      "startMs": 60900,
+      "endMs": 62040,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Bạn đang muốn đi cùng gia đình hay nhóm bạn?",
+      "start": 62.27,
+      "end": 64.78,
+      "startMs": 62270,
+      "endMs": 64780,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Nhắn ngay cho VnExpress Tour để được tư vấn lịch",
+      "start": 65.037,
+      "end": 67.72,
+      "startMs": 65037,
+      "endMs": 67720,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "khởi hành, báo giá và các dịch vụ đi kèm.",
+      "start": 67.72,
+      "end": 70.78,
+      "startMs": 67720,
+      "endMs": 70780,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Gửi số người cùng tháng dự kiến đi,",
+      "start": 70.987,
+      "end": 72.84,
+      "startMs": 70987,
+      "endMs": 72840,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "để được tư vấn chuyến phù hợp nhé!",
+      "start": 72.98,
+      "end": 75.02,
+      "startMs": 72980,
+      "endMs": 75020,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-18",
+  "referenceVideos": [
+    {
+      "file": "Hanta ai.mp4",
+      "duration": 47.445333,
+      "sha256": "bb49e2843dda794997fa8c0378d20f974339a5bad19e3b803fdff73a3d363fbd",
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1080,
+          "height": 1920,
+          "r_frame_rate": "30/1",
+          "nb_frames": "1422",
+          "sample_rate": null
+        },
+        {
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "r_frame_rate": "0/0",
+          "nb_frames": "2224",
+          "sample_rate": "48000"
+        }
+      ]
+    },
+    {
+      "file": "VnExpress-Tour-Cuu-Trai-Cau-v6-Thuc-Doan-Toc-Do-Goc-Logo.mp4",
+      "duration": 77.013,
+      "sha256": "8b586018266b3ad8c134e15f813792f4f87b9ae75e28a4237b2d212df1c9dffe",
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "30/1",
+          "nb_frames": "2310",
+          "sample_rate": null
+        },
+        {
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "r_frame_rate": "0/0",
+          "nb_frames": "3612",
+          "sample_rate": "48000"
+        }
+      ]
+    }
+  ],
+  "syntheticRenders": {
+    "hanta": {
+      "decode": "passed",
+      "frames": 288,
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "duration": "9.600000"
+    },
+    "tour": {
+      "decode": "passed",
+      "frames": 300,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "duration": "10.005000"
+    }
+  },
+  "behavioralChecks": {
+    "passed": 12,
+    "tests": [
+      "Hanta brand and all insert types",
+      "Hanta rejects missing source",
+      "Hanta rejects overlapping cuts",
+      "Hanta rejects source overrun",
+      "Hanta rejects outside media",
+      "Hanta rejects invalid proof type",
+      "Tour valid timeline",
+      "Tour rejects narration truncation",
+      "Tour rejects arbitrary voice speed",
+      "Tour rejects timeline gap",
+      "Tour rejects missing media",
+      "Tour rejects footage overrun"
+    ]
+  },
+  "installer": "fresh install + replacement backup + all file hashes passed",
+  "typecheck": "Both TypeScript projects passed tsc --noEmit",
+  "skillFrontmatter": "Both passed skill-creator quick_validate.py",
+  "originalVideoDecode": "Both supplied MP4 files decoded in full without error",
+  "listening": "No claim of full direct audio audition",
+  "backgroundProcesses": "No preview server started; render subprocess groups cleaned after completion",
+  "scope": "Reusable workflow and code complete; private source video, music and TTS model/voice data are separate inputs, not distributed"
+}

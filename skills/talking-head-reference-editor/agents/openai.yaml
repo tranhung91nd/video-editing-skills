@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dựng talking-head kiểu Hanta AI"
+  short_description: "Dựng Remotion theo mẫu đã kiểm chứng, không mở preview"
+  default_prompt: "Dùng $talking-head-reference-editor để dựng video của tôi theo đúng phong cách mẫu."

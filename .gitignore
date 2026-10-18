@@ -1,0 +1,17 @@
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+.venv*/
+*.log
+*.mp4
+*.mov
+*.m4a
+*.mp3
+*.wav
+render-project/
+out/
+.validation/
+dist/
+.env
+.env.*

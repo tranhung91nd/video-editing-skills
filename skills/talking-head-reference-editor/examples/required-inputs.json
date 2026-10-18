@@ -1,0 +1,10 @@
+{
+  "example": "hanta-reference.json",
+  "files": [
+    "assets/ceo-success-recap.mp4",
+    "assets/hhdl-hoinghi.mp4",
+    "assets/music.mp3",
+    "raw.mp4"
+  ],
+  "mediaIncluded": false
+}

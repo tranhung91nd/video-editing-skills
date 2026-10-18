@@ -1,0 +1,28 @@
+{
+  "example": "cuu-trai-cau-v6.json",
+  "files": [
+    "forest.mp4",
+    "opening.mp4",
+    "panda.mp4",
+    "photo-00.jpg",
+    "photo-07.jpg",
+    "photo-10.jpg",
+    "photo-13.jpg",
+    "revision2/banquet.mp4",
+    "revision2/ifs.mp4",
+    "revision2/jinli.mp4",
+    "revision2/luodai-street.mp4",
+    "revision2/luodai-tulou.mp4",
+    "revision2/panda-eating.mp4",
+    "revision2/village.mp4",
+    "revision3/dongjiao-photos.mp4",
+    "revision3/group-jiuzhai.jpg",
+    "revision3/kuanzhai.mp4",
+    "revision5/logo-vnexpress-tour-transparent.png",
+    "revision6/music-bed.wav",
+    "revision6/narration-thuc-doan-native.wav",
+    "water.mp4",
+    "waterfall.mp4"
+  ],
+  "mediaIncluded": false
+}

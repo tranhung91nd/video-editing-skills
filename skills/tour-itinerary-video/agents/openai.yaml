@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dựng video tour theo lịch trình"
+  short_description: "Dựng Remotion theo mẫu đã kiểm chứng, không mở preview"
+  default_prompt: "Dùng $tour-itinerary-video để dựng video của tôi theo đúng phong cách mẫu."
