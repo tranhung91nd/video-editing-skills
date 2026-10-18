@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "files": {
     "skills/talking-head-reference-editor/SKILL.md": "e506805048f96f6e61c3b4e3d8c8cf65e2571b14a48f0306a82692a93e6ee961",
     "skills/talking-head-reference-editor/agents/openai.yaml": "b59dd810ffe0a1a90b1ac339b0be6294cb7802c68f1f132afac16f59e5d5b4fb",

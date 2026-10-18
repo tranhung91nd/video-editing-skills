@@ -11,10 +11,21 @@ Skill Hanta bắt nguồn từ `talking-head-editor` của Claude; bản này th
 
 ## Cài vào Codex
 
-Cần GitHub CLI đã đăng nhập tài khoản được cấp quyền vì repo riêng tư:
+Repo công khai: bất kỳ ai có link đều có thể xem và tải, không cần đăng nhập GitHub.
+
+**[Tải cả hai skill và bộ cài ZIP](https://github.com/tranhung91nd/video-editing-skills/releases/download/v1.0.1/video-editing-skills-v1.0.1.zip)** · [Tất cả bản tải](https://github.com/tranhung91nd/video-editing-skills/releases)
+
+Cách dùng ZIP: giải nén, mở Terminal tại thư mục vừa giải nén (nơi có README.md), rồi chạy:
 
 ```bash
-gh repo clone tranhung91nd/video-editing-skills
+python3 scripts/validate_package.py
+python3 scripts/install.py --target codex
+```
+
+Hoặc nếu đã có Git:
+
+```bash
+git clone https://github.com/tranhung91nd/video-editing-skills.git
 cd video-editing-skills
 python3 scripts/validate_package.py
 python3 scripts/install.py --target codex

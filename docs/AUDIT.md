@@ -37,4 +37,4 @@ Sau đóng gói: **tour-itinerary-video** tham số hóa lịch trình, cảnh, 
 
 Gói hoàn chỉnh về workflow, template, font phân phối được, setup, kiểm tra, render, ví dụ và cập nhật Git. Không phải bản phát hành kèm video cá nhân, footage tải mạng, nhạc hoặc dataset giọng. Muốn dựng lại hai video mẫu, cung cấp các file trong examples/required-inputs.json; stage_example.py sẽ kiểm và gom đúng nguồn vào job mới. Mỗi job vẫn cần rà soát sự thật, quyền tư liệu và âm thanh thực tế.
 
-macOS Apple Silicon đã kiểm; Windows/Linux chưa được thử. Chỉ đặt repo riêng tư, không cấp quyền cộng tác hay đăng video đi nơi khác ngoài yêu cầu tải skill lên GitHub.
+macOS Apple Silicon đã kiểm; Windows/Linux chưa được thử. Ban đầu phát hành riêng tư; sau yêu cầu chia sẻ cho mọi người, repo và các bản tải được chuyển công khai. Không cấp quyền ghi/cộng tác và không đăng kèm video gốc hay dữ liệu giọng cá nhân.
