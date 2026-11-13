@@ -4,7 +4,7 @@ import argparse,shutil
 from datetime import datetime
 from pathlib import Path
 ROOT=Path(__file__).resolve().parent.parent
-NAMES=['talking-head-reference-editor','tour-itinerary-video']
+NAMES=['talking-head-reference-editor','tour-itinerary-video','tour-ad-vertical']
 def main():
     p=argparse.ArgumentParser(description=__doc__);p.add_argument('--target',choices=['codex','claude','agents'],default='codex');p.add_argument('--destination',type=Path);p.add_argument('--skill',choices=NAMES+['all'],default='all');p.add_argument('--replace',action='store_true');a=p.parse_args()
     dest=a.destination or Path.home()/('.'+a.target)/'skills';dest=dest.expanduser().resolve();names=NAMES if a.skill=='all' else [a.skill]

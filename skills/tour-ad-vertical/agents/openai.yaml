@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video quảng cáo tour dọc AIDA"
+  short_description: "Lời thoại AIDA, giọng VieNeu, source TikTok sạch chữ, khung thương hiệu 9:16"
+  default_prompt: "Dùng $tour-ad-vertical viết lời thoại AIDA và dựng video dọc 9:16 cho tour này."
