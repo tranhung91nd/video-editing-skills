@@ -1,0 +1,386 @@
+{
+  "_note": "Mẫu Vietnam 10 ngày (Vietnam Express Tour). Mọi mốc là giây trên đồng hồ của source. Khi làm job mới: thay brand, duration, legs, stops, captions.clauses.",
+  "duration": 94.5,
+  "total_days": 10,
+  "brand": {
+    "name": "Viet Nam Express Tour",
+    "website": "vnexpresstour.vn",
+    "whatsapp": "+84 37 550 7551"
+  },
+  "word_fixes": {
+    "Huan": "Hoan",
+    "Giam": "Kiem",
+    "Hui,": "Hue,",
+    "Tianmu": "Thien Mu",
+    "Halong": "Ha Long"
+  },
+  "hook": {
+    "end": 10.5,
+    "kicker": "FIRST TIME IN VIETNAM?",
+    "big": "THE [#1 MISTAKE]",
+    "big_at": 0.9,
+    "subs": [
+      {
+        "text": "Trying to see everything at once",
+        "at": 3.4
+      },
+      {
+        "text": "Too many hours on buses & trains",
+        "at": 5.8,
+        "alt": true
+      }
+    ]
+  },
+  "title": {
+    "end": 19.5,
+    "big": "10 DAYS",
+    "line2": "IN VIETNAM",
+    "sub": "The first-timer itinerary",
+    "route": [
+      "HANOI",
+      "HA LONG",
+      "HUE",
+      "HOI AN",
+      "MEKONG",
+      "SAIGON"
+    ]
+  },
+  "stops": [
+    {
+      "name": "Hanoi",
+      "lon": 105.85,
+      "lat": 21.03,
+      "side": "l"
+    },
+    {
+      "name": "Ha Long",
+      "lon": 107.08,
+      "lat": 20.95,
+      "side": "r"
+    },
+    {
+      "name": "Hue",
+      "lon": 107.59,
+      "lat": 16.46,
+      "side": "l"
+    },
+    {
+      "name": "Hoi An",
+      "lon": 108.33,
+      "lat": 15.88,
+      "side": "r"
+    },
+    {
+      "name": "Mekong",
+      "lon": 105.75,
+      "lat": 10.05,
+      "side": "bl"
+    },
+    {
+      "name": "Saigon",
+      "lon": 106.7,
+      "lat": 10.78,
+      "side": "r"
+    }
+  ],
+  "legs": [
+    {
+      "start": 19.5,
+      "end": 27.0,
+      "day": "DAY 1",
+      "place": "HANOI",
+      "last_day": 1,
+      "transport": null,
+      "activities": [
+        "Hoan Kiem Lake",
+        "Street food",
+        "Egg coffee"
+      ],
+      "stop": 0
+    },
+    {
+      "start": 27.0,
+      "end": 33.8,
+      "day": "DAY 2",
+      "place": "HA LONG BAY",
+      "last_day": 2,
+      "transport": [
+        "boat",
+        "Overnight cruise"
+      ],
+      "activities": [
+        "Limestone islands",
+        "Night on the bay"
+      ],
+      "stop": 1
+    },
+    {
+      "start": 33.8,
+      "end": 38.5,
+      "day": "DAY 3",
+      "place": "HANOI",
+      "last_day": 3,
+      "transport": [
+        "car",
+        "Back to Hanoi"
+      ],
+      "activities": [
+        "Old Quarter",
+        "Train Street"
+      ],
+      "stop": 0
+    },
+    {
+      "start": 38.5,
+      "end": 46.8,
+      "day": "DAY 4",
+      "place": "HUE",
+      "last_day": 4,
+      "transport": [
+        "train",
+        "Night train"
+      ],
+      "activities": [
+        "Imperial Citadel",
+        "Perfume River",
+        "Thien Mu Pagoda"
+      ],
+      "stop": 2
+    },
+    {
+      "start": 46.8,
+      "end": 57.1,
+      "day": "DAY 5–7",
+      "place": "HOI AN",
+      "last_day": 7,
+      "transport": [
+        "car",
+        "Hai Van Pass drive"
+      ],
+      "activities": [
+        "Countryside bike ride",
+        "Cooking class",
+        "Lantern night"
+      ],
+      "stop": 3
+    },
+    {
+      "start": 57.1,
+      "end": 66.3,
+      "day": "DAY 8",
+      "place": "MEKONG DELTA",
+      "last_day": 8,
+      "transport": [
+        "plane",
+        "Fly south"
+      ],
+      "activities": [
+        "Quiet canals",
+        "Tropical fruit",
+        "Local homestay"
+      ],
+      "stop": 4
+    },
+    {
+      "start": 66.3,
+      "end": 73.8,
+      "day": "DAY 9–10",
+      "place": "HO CHI MINH CITY",
+      "last_day": 10,
+      "transport": [
+        "car",
+        "Drive to Saigon"
+      ],
+      "activities": [
+        "City walk",
+        "Street food",
+        "Fly home"
+      ],
+      "stop": 5,
+      "bend": -24
+    }
+  ],
+  "plan": {
+    "start": 73.8,
+    "question": "Not sure where to start?"
+  },
+  "inclusions": {
+    "start": 79.5,
+    "head": "ALL ARRANGED FOR YOU",
+    "items": [
+      [
+        80.1,
+        "Hotels"
+      ],
+      [
+        80.9,
+        "Transfers"
+      ],
+      [
+        81.7,
+        "Flights"
+      ],
+      [
+        82.5,
+        "Sleeper train"
+      ],
+      [
+        83.5,
+        "Ha Long cruise"
+      ],
+      [
+        84.3,
+        "English-speaking guides"
+      ]
+    ]
+  },
+  "end_card": {
+    "start": 88.7,
+    "title": "Get the full 10-day itinerary",
+    "link_hint": "Link below"
+  },
+  "captions": {
+    "highlight": [
+      "Vietnam Express Tour",
+      "Vietnam"
+    ],
+    "clauses": [
+      [
+        "Did you know the biggest mistake first-timers make in Vietnam",
+        false
+      ],
+      [
+        "is trying to see everything at once?",
+        false
+      ],
+      [
+        "You'll end up spending more time on buses and trains",
+        false
+      ],
+      [
+        "than actually enjoying the country.",
+        false
+      ],
+      [
+        "If it's your first time, here's a 10-day Vietnam itinerary",
+        false
+      ],
+      [
+        "from Vietnam Express Tour",
+        true
+      ],
+      [
+        "that helps you experience the country without feeling overwhelmed.",
+        true
+      ],
+      [
+        "First, you'll start in Hanoi,",
+        false
+      ],
+      [
+        "wandering around Hoan Kiem Lake,",
+        false
+      ],
+      [
+        "eating street food and sipping legendary egg coffee.",
+        false
+      ],
+      [
+        "Then, you'll head to Ha Long Bay",
+        false
+      ],
+      [
+        "for an overnight cruise through the stunning limestone islands.",
+        false
+      ],
+      [
+        "The next day, come back to Hanoi",
+        false
+      ],
+      [
+        "to wander through the Old Quarter and visit the famous train street.",
+        false
+      ],
+      [
+        "Next, hop on the night train to Hue,",
+        false
+      ],
+      [
+        "walk through the old Imperial Citadel",
+        false
+      ],
+      [
+        "and cruise along the Perfume River to visit Thien Mu Pagoda.",
+        false
+      ],
+      [
+        "From there, drive over the Hai Van Pass into Hoi An,",
+        false
+      ],
+      [
+        "where you can ride bikes through the countryside,",
+        false
+      ],
+      [
+        "take a cooking class,",
+        false
+      ],
+      [
+        "and walk under thousands of glowing lanterns at night.",
+        false
+      ],
+      [
+        "After that, head down south to the Mekong Delta",
+        false
+      ],
+      [
+        "to drift along quiet canals, taste fresh tropical fruit,",
+        false
+      ],
+      [
+        "and spend a night in a local homestay.",
+        false
+      ],
+      [
+        "Finally, end your journey in Ho Chi Minh City,",
+        false
+      ],
+      [
+        "where you can wander through the streets and try some delicious street food",
+        false
+      ],
+      [
+        "before heading home.",
+        false
+      ],
+      [
+        "If you're planning a Vietnam trip",
+        true
+      ],
+      [
+        "but not sure where to start,",
+        false
+      ],
+      [
+        "let Vietnam Express Tour take care of it.",
+        true
+      ],
+      [
+        "Your hotels, transfers, flights, the sleeper train, the cruise, and English-speaking guides",
+        false
+      ],
+      [
+        "are all arranged,",
+        false
+      ],
+      [
+        "so you can just enjoy the trip.",
+        true
+      ],
+      [
+        "Click the link below to get the full itinerary and chat with our local travel experts.",
+        false
+      ]
+    ]
+  }
+}
