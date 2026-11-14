@@ -1,0 +1,4 @@
+interface:
+  display_name: "Đồ hoạ lịch trình trên source sạch chữ"
+  short_description: "Thẻ ngày, bản đồ Việt Nam có Hoàng Sa/Trường Sa, thanh tiến độ, phụ đề không trùng, màn kết thương hiệu"
+  default_prompt: "Dùng $itinerary-overlay-video chèn đồ hoạ lịch trình lên video sạch chữ này cho khách nước ngoài."
